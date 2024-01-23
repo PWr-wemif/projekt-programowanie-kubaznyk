@@ -15,7 +15,7 @@ Po wybraniu mieszkania, użytkownik ma dostęp do harmonogramu konserwacji.
 Może wybierać daty, dodawać i przeglądać planowane wydarzenia konserwacyjne (np. przeglądy techniczne, naprawy) dla swojego mieszkania.
 
 3.Umowy Najmu:
-Aplikacja umożliwia przechowywanie informacji na temat umów najmu dotyczących mieszkania.
+Aplikacja umożliwia przeglądanie umów najmu dotyczących mieszkania.
 Użytkownicy mogą przeglądać szczegóły umów, takie jak okres najmu, warunki itp.
 
 4.Dokumenty:
