@@ -18,9 +18,8 @@ Może wybierać daty, dodawać i przeglądać planowane wydarzenia konserwacyjne
 Aplikacja umożliwia przeglądanie umów najmu dotyczących mieszkania.
 Użytkownicy mogą przeglądać szczegóły umów, takie jak okres najmu, warunki itp.
 
-4.Dokumenty:
-Użytkownicy mogą przechowywać ważne dokumenty związane z nieruchomością w jednym miejscu.
-To może obejmować umowy, certyfikaty, rachunki i inne dokumenty.
+4.Najemcy i Mieszkania:
+Użytkownicy mogą przechowywać dane o najemcach i apartamentach w bazie danych aplikacji, oraz przypisywać poprzez formularz najemcę do danego apartamentu.
 
 5.Ustawienia:
 W zakładce "Ustawienia", użytkownicy mogą dostosować ustawienia aplikacji i zarządzać swoim profilem.
